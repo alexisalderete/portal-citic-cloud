@@ -9,13 +9,10 @@ Este proyecto es un Portal Educativo diseñado para facilitar la gestión acadé
 
 ## Integrantes del Proyecto
 
-1. **Juan Pérez**  
+1. **Alexis Rolando Alderete Araujo**  
    - Rol: Desarrollador Frontend  
    - Tareas: Diseño de interfaces, implementación de vistas  
-   
-2. **María González**  
-   - Rol: Desarrollador Backend  
-   - Tareas: Lógica de negocio, conexión con base de datos  
+
 
 ## Tareas Realizadas
 
