@@ -33,55 +33,17 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno local:
 ### Requisitos Previos
 - Node.js (v16 o superior)
 - npm (v8 o superior) o yarn
-- Base de datos MySQL o PostgreSQL
+- Base de datos MySQL
 
 ### Pasos para la Instalación
 
 1. **Clonar el repositorio**  
    ```bash
-   git clone https://github.com/tu-usuario/portal-educativo.git
-   cd portal-educativo
+   git clone https://github.com/alexisalderete/portal-citic-cloud
+   cd portal-citic-cloud
    ```
 
-2. **Instalar dependencias**  
+2. **Iniciar el servidor**  
    ```bash
-   npm install
-   # o
-   yarn install
+   npm run dev
    ```
-
-3. **Configurar variables de entorno**  
-   Crear un archivo `.env` en la raíz del proyecto con las siguientes variables:  
-   ```env
-   DB_HOST=localhost
-   DB_USER=tu_usuario
-   DB_PASSWORD=tu_contraseña
-   DB_NAME=portal_educativo
-   PORT=3000
-   ```
-
-4. **Ejecutar migraciones (si aplica)**  
-   ```bash
-   npm run migrate
-   # o
-   yarn migrate
-   ```
-
-5. **Iniciar el servidor**  
-   ```bash
-   npm start
-   # o
-   yarn start
-   ```
-
-6. **Acceder al proyecto**  
-   Abre tu navegador y visita:  
-   ```
-   http://localhost:3000
-   ```
-
-### Notas Adicionales
-- Para el modo desarrollo, usa `npm run dev` o `yarn dev` (requiere nodemon instalado globalmente).  
-- Asegúrate de que la base de datos esté configurada y corriendo antes de iniciar el servidor.  
-
-¡Gracias por usar nuestro Portal Educativo!
