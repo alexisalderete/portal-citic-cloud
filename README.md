@@ -21,12 +21,10 @@ Este proyecto es un Portal Educativo diseñado para facilitar la gestión acadé
    - Funcionalidades: filtrado, ordenamiento y paginación.  
 
 2. **Añadir vista de creación de una nueva calificación**  
-   - Formulario intuitivo para ingresar nuevas calificaciones.  
-   - Validación de campos y retroalimentación visual.  
+   - Formulario intuitivo para ingresar nuevas calificaciones. 
 
 3. **Añadir vista de lista de materiales de clases**  
-   - Visualización de materiales organizados por curso o tema.  
-   - Opciones para descargar o eliminar archivos.  
+   - Visualización de materiales organizados por curso.  
 
 ## Instalación del Proyecto
 
