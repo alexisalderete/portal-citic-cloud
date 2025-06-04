@@ -47,3 +47,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno local:
    ```bash
    npm run dev
    ```
+
+### Capturas del proyecto
+![image](https://github.com/user-attachments/assets/ff573689-b7a7-40fb-8bc0-19402937cea3)
+![image](https://github.com/user-attachments/assets/97431a2e-33ac-4956-9113-9885f15c5e78)
